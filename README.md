@@ -19,9 +19,23 @@ iii) Agile methodologies. A shift from previous models like waterfall now offere
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
+i) Planning - define the problem, software goals, scope and the timeline for the project.
+ii) Requirements analysis- Determine the needs for the software to meet its specific goals.
+iii)Design - Create a prototype for the software
+iv) Coding- Use various languages to develop the softtware.
+v) Testing - Run various scenarious to ensure the software is free from errors and meet the set goals.
+vi) Deployment- Release the software to the users.
+vii) Maintanance- Collect feedback from users and fix any arising issues with the software.
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+Waterfall methodologies follows a linear and sequential approach with distinct phases while Agile methodology is iterative and flexible allowing for continious feedback and adjustments throghout the lifecycle.
+Diffrences
+i)Waterfall there is low flexibility and changes are hard to incorporate while in agile is highly flexible and adapts tp changing requirements.
+ii)Waterfall user feedback comes later after product is developed while agile regular feedback is incorporated in every sprint.
+iii) Waterfall testing is done at the end of development while in Agile testing is done after every iteration.
+When to use:
+Waterfall
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
